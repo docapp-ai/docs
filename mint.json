@@ -38,7 +38,7 @@
       "pages": [
         "buildapps/firstdocapp",
         "buildapps/appeditor",
-        "buildapps/shareapp",
+        "buildapps/shareapp"
       ]
     }
   ],
