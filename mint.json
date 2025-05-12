@@ -27,10 +27,11 @@
   },
   "navigation": [
     {
-      "group": "Use Apps",
+      "group": "Getting started",
       "pages": [
-        "useapps/quickstart",
-        "useapps/appstore"
+        "getting_started/installation",
+        "getting_started/use_cases",
+        "getting_started/common_issues"
       ]
     },
     {
